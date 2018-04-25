@@ -7,3 +7,5 @@ tags:
 type:
   - code along
 resources: 0
+
+parent_template: git@github.com:learn-co-curriculum/box-style-codealong.git

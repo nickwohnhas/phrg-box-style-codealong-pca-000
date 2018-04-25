@@ -184,4 +184,4 @@ background: linear-gradient(
 ); /* W3C */
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-code-along-ex-5' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG CSS Box Style Code Along</p>
